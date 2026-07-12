@@ -1,5 +1,7 @@
 ### 👋 ¡Qué onda! Soy José Manuel Limón Ávila
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Instituto_Polit%C3%A9cnico_Nacional_logo.svg/60px-Instituto_Polit%C3%A9cnico_Nacional_logo.svg.png" width="16"/> Instituto Politécnico Nacional
+
 🚗 Ingeniero en Sistemas Automotrices que decidió cambiarle el aceite a su carrera y meterse de lleno al mundo del código.
 
 🌱 Actualmente en entrenamiento para convertirme en **Java Full Stack Developer** — de armar sistemas mecánicos a armar sistemas... de otro tipo 😄
