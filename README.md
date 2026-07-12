@@ -22,11 +22,6 @@
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LimonAv&layout=compact&theme=tokyonight" width="48%" />
 </p>
-### 🏆 Trofeos
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=LimonAv&theme=tokyonight&column=6&margin-w=8" />
-</p>
 
 🔭 Actualmente buscando oportunidades para meter las manos en proyectos Full Stack (y de paso, meterle también a la visión por computadora si se puede).
 
