@@ -1,17 +1,39 @@
-### 👋 ¡Hola! Soy José Limón
+### 👋 ¡Qué onda! Soy José Manuel Limón Ávila
 
-🚗 Ingeniero en Sistemas Automotrices, hoy enfocado en convertirme en **Desarrollador Java Full Stack**.
+🚗 Ingeniero en Sistemas Automotrices que decidió cambiarle el aceite a su carrera y meterse de lleno al mundo del código.
 
-🌱 Actualmente cursando mi formación como Full Stack Developer, combinando lo mejor de dos mundos: la precisión de la ingeniería y la lógica del desarrollo de software.
+🌱 Actualmente en entrenamiento para convertirme en **Java Full Stack Developer** — de armar sistemas mecánicos a armar sistemas... de otro tipo 😄
 
-📷 Me apasionan especialmente los proyectos de **procesamiento de imágenes** — la mezcla entre visión por computadora e ingeniería es justo el tipo de reto que me encanta resolver.
+📷 Fan de los proyectos de **procesamiento de imágenes**. Si involucra píxeles, algoritmos y algo de magia visual, ahí estoy.
 
-### 🛠️ Tecnologías
+### 🛠️ Con lo que trabajo
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,js" />
 </p>
 
-🔭 Buscando oportunidades para aplicar y seguir creciendo en el mundo del desarrollo Full Stack.
+### 📊 Mis stats
 
-📫 ¿Quieres colaborar o platicar de proyectos? ¡Contáctame!
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LimonAv&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LimonAv&theme=tokyonight" width="48%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimonAv&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+### 🏆 Trofeos
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=LimonAv&theme=tokyonight&column=6&margin-w=8" />
+</p>
+
+🔭 Actualmente buscando oportunidades para meter las manos en proyectos Full Stack (y de paso, meterle también a la visión por computadora si se puede).
+
+📫 Hablemos:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-manuel-limón-ávila-5b9aaa338/)
+
+---
+⭐ *De motores a marcos de trabajo, siempre en modo debug.*
