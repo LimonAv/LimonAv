@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy José Limón
 
-<!--
-**LimonAv/LimonAv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚗 Ingeniero en Sistemas Automotrices, hoy enfocado en convertirme en **Desarrollador Java Full Stack**.
 
-Here are some ideas to get you started:
+🌱 Actualmente cursando mi formación como Full Stack Developer, combinando lo mejor de dos mundos: la precisión de la ingeniería y la lógica del desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Trabajo con:
+- **Java** (mi enfoque actual como Full Stack)
+- **Python**
+- **JavaScript**
+
+📷 Me apasionan especialmente los proyectos de **procesamiento de imágenes** — la mezcla entre visión por computadora e ingeniería es justo el tipo de reto que me encanta resolver.
+
+🔭 Buscando oportunidades para aplicar y seguir creciendo en el mundo del desarrollo Full Stack.
+
+📫 ¿Quieres colaborar o platicar de proyectos? ¡Contáctame!
