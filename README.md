@@ -15,14 +15,13 @@
 ### 📊 Mis stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LimonAv&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=LimonAv&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LimonAv&theme=tokyonight" width="48%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimonAv&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LimonAv&layout=compact&theme=tokyonight" width="48%" />
 </p>
-
 ### 🏆 Trofeos
 
 <p align="left">
