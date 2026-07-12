@@ -1,6 +1,6 @@
 ### 👋 ¡Qué onda! Soy José Manuel Limón Ávila
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Instituto_Polit%C3%A9cnico_Nacional_logo.svg/60px-Instituto_Polit%C3%A9cnico_Nacional_logo.svg.png" width="16"/> Instituto Politécnico Nacional
+![IPN](https://img.shields.io/badge/Instituto%20Polit%C3%A9cnico%20Nacional-6F1D46?style=flat-square&logo=googlescholar&logoColor=white)
 
 🚗 Ingeniero en Sistemas Automotrices que decidió cambiarle el aceite a su carrera y meterse de lleno al mundo del código.
 
